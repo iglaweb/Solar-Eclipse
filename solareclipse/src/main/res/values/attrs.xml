@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SolarEclipseView">
+        <attr name="sev_solarColor" format="color" />
+        <attr name="sev_bgStartColor" format="color" />
+        <attr name="sev_bgEndColor" format="color" />
+        <attr name="sev_pbPrimaryColor" format="color" />
+        <attr name="sev_pbSecondaryColor" format="color" />
+        <attr name="sev_eclipse_size" format="dimension" />
+    </declare-styleable>
+</resources>
